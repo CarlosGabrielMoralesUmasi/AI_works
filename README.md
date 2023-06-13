@@ -39,7 +39,7 @@ In the example, the game is played between a human player ('x') and the AI playe
 Feel free to modify and enhance the code as per your requirements. Enjoy playing Tic-Tac-Toe against the AI opponent!
 
 
-#graph_path
+# GRAPH_path
 
 The `Graph` class implements a graph and provides different methods for performing operations on it.
 
